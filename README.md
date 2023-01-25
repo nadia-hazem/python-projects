@@ -1,2 +1,3 @@
 # python-projects
-Jeu du pendu et morpion
+
+Game of hangman and noughts and crosses (Tic-Tac-Toe).
